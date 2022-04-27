@@ -1,7 +1,3 @@
-# NOTICE: ARCHIVED
-
-Unfortunately, I no longer time time to answer questions posted here, so this repo has been archived. [Learn more](https://kcd.im/help)
-
 # Ask me anything!
 
 ## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
